@@ -1,0 +1,3 @@
+[gmail]
+sa_key_file = gmail-secret.json
+sender = 
